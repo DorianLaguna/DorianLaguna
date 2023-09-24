@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portafolio-dorianlaguna.domcloud.io/](https://portafolio-dorianlaguna.domcloud.io/)
 
-- 📄 Know about my experiences I have been learning to program for 2 years, trying to get better every day. And I'm looking for my first job as a web developer and demonstrate my skills
+- 📄 I have been learning to program for 2 years, trying to get better every day. And I'm looking for my first job as a web developer and demonstrate my skills
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/dorian-laguna-campos-776892261" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dorian-laguna-campos-776892261" height="30" width="40" /></a>
