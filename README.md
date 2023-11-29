@@ -1,7 +1,7 @@
 <h1 align="center">Hi Dorian Laguna</h1>
 <h3 align="center">A passionate Full-Stack developer from Mexico</h3>
 
-- 👨‍💻 All of my projects are available at [https://portafolio-dorianlaguna.domcloud.io/](https://portafolio-dorianlaguna.domcloud.io/)
+- 👨‍💻 All of my projects are available at [[https://portafolio-dorianlaguna.com/](https://portafolio-dorianlaguna.com/)]
 
 - 📄 I have been learning to program for 2 years, trying to get better every day. And I'm looking for my first job as a web developer and demonstrate my skills
 <h3 align="left">Connect with me:</h3>
